@@ -1,0 +1,15 @@
+C:\Users\Marlon\Desktop\Segundo\obj\Debug\net6.0\Segundo.csproj.AssemblyReference.cache
+C:\Users\Marlon\Desktop\Segundo\obj\Debug\net6.0\Segundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marlon\Desktop\Segundo\obj\Debug\net6.0\Segundo.AssemblyInfoInputs.cache
+C:\Users\Marlon\Desktop\Segundo\obj\Debug\net6.0\Segundo.AssemblyInfo.cs
+C:\Users\Marlon\Desktop\Segundo\obj\Debug\net6.0\Segundo.csproj.CoreCompileInputs.cache
+C:\Users\Marlon\Desktop\Segundo\bin\Debug\net6.0\Segundo.exe
+C:\Users\Marlon\Desktop\Segundo\bin\Debug\net6.0\Segundo.deps.json
+C:\Users\Marlon\Desktop\Segundo\bin\Debug\net6.0\Segundo.runtimeconfig.json
+C:\Users\Marlon\Desktop\Segundo\bin\Debug\net6.0\Segundo.dll
+C:\Users\Marlon\Desktop\Segundo\bin\Debug\net6.0\Segundo.pdb
+C:\Users\Marlon\Desktop\Segundo\obj\Debug\net6.0\Segundo.dll
+C:\Users\Marlon\Desktop\Segundo\obj\Debug\net6.0\refint\Segundo.dll
+C:\Users\Marlon\Desktop\Segundo\obj\Debug\net6.0\Segundo.pdb
+C:\Users\Marlon\Desktop\Segundo\obj\Debug\net6.0\Segundo.genruntimeconfig.cache
+C:\Users\Marlon\Desktop\Segundo\obj\Debug\net6.0\ref\Segundo.dll
