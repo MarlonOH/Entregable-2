@@ -1,0 +1,15 @@
+C:\Users\Marlon\Desktop\Primeroo\bin\Debug\net6.0\Primeroo.exe
+C:\Users\Marlon\Desktop\Primeroo\bin\Debug\net6.0\Primeroo.deps.json
+C:\Users\Marlon\Desktop\Primeroo\bin\Debug\net6.0\Primeroo.runtimeconfig.json
+C:\Users\Marlon\Desktop\Primeroo\bin\Debug\net6.0\Primeroo.dll
+C:\Users\Marlon\Desktop\Primeroo\bin\Debug\net6.0\Primeroo.pdb
+C:\Users\Marlon\Desktop\Primeroo\obj\Debug\net6.0\Primeroo.csproj.AssemblyReference.cache
+C:\Users\Marlon\Desktop\Primeroo\obj\Debug\net6.0\Primeroo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marlon\Desktop\Primeroo\obj\Debug\net6.0\Primeroo.AssemblyInfoInputs.cache
+C:\Users\Marlon\Desktop\Primeroo\obj\Debug\net6.0\Primeroo.AssemblyInfo.cs
+C:\Users\Marlon\Desktop\Primeroo\obj\Debug\net6.0\Primeroo.csproj.CoreCompileInputs.cache
+C:\Users\Marlon\Desktop\Primeroo\obj\Debug\net6.0\Primeroo.dll
+C:\Users\Marlon\Desktop\Primeroo\obj\Debug\net6.0\refint\Primeroo.dll
+C:\Users\Marlon\Desktop\Primeroo\obj\Debug\net6.0\Primeroo.pdb
+C:\Users\Marlon\Desktop\Primeroo\obj\Debug\net6.0\Primeroo.genruntimeconfig.cache
+C:\Users\Marlon\Desktop\Primeroo\obj\Debug\net6.0\ref\Primeroo.dll
