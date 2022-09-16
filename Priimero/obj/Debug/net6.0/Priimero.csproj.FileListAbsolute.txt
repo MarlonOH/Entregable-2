@@ -1,0 +1,15 @@
+C:\Users\Marlon\Desktop\Priimero\bin\Debug\net6.0\Priimero.exe
+C:\Users\Marlon\Desktop\Priimero\bin\Debug\net6.0\Priimero.deps.json
+C:\Users\Marlon\Desktop\Priimero\bin\Debug\net6.0\Priimero.runtimeconfig.json
+C:\Users\Marlon\Desktop\Priimero\bin\Debug\net6.0\Priimero.dll
+C:\Users\Marlon\Desktop\Priimero\bin\Debug\net6.0\Priimero.pdb
+C:\Users\Marlon\Desktop\Priimero\obj\Debug\net6.0\Priimero.csproj.AssemblyReference.cache
+C:\Users\Marlon\Desktop\Priimero\obj\Debug\net6.0\Priimero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marlon\Desktop\Priimero\obj\Debug\net6.0\Priimero.AssemblyInfoInputs.cache
+C:\Users\Marlon\Desktop\Priimero\obj\Debug\net6.0\Priimero.AssemblyInfo.cs
+C:\Users\Marlon\Desktop\Priimero\obj\Debug\net6.0\Priimero.csproj.CoreCompileInputs.cache
+C:\Users\Marlon\Desktop\Priimero\obj\Debug\net6.0\Priimero.dll
+C:\Users\Marlon\Desktop\Priimero\obj\Debug\net6.0\refint\Priimero.dll
+C:\Users\Marlon\Desktop\Priimero\obj\Debug\net6.0\Priimero.pdb
+C:\Users\Marlon\Desktop\Priimero\obj\Debug\net6.0\Priimero.genruntimeconfig.cache
+C:\Users\Marlon\Desktop\Priimero\obj\Debug\net6.0\ref\Priimero.dll
